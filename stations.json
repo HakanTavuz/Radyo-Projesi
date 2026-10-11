@@ -6,5 +6,6 @@
   {"name": "Türkü Radyo", "url": "https://yayin.turkhosted.com/4591/stream"},
   {"name": "TRT Radyo Haber", "url": "https://trt.radyotvonline.net/trthaber"},
   {"name": "TRT Radyo 1", "url": "https://trt.radyotvonline.net/trt1"},
-  {"name": "TRT FM", "url": "https://trt.radyotvonline.net/trtfm"}
+  {"name": "TRT FM", "url": "https://trt.radyotvonline.net/trtfm"},
+  {"name": "Apaçık Radyo", "url": "https://ssldyg2.radyotvonline.com/live/apacikradyo.stream/playlist.m3u8"}
 ]
